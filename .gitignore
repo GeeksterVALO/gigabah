@@ -6,7 +6,3 @@ assets/
 .vscode/
 .DS_Store
 .idea
-addons/qodot/
-# Launcher artifacts
-launcher/launcher_tmp/
-game/
